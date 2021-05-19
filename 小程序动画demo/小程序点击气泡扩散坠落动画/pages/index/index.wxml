@@ -1,0 +1,3 @@
+<view bindtap="fuck" style="{{fuckbox}}">
+  <canvas type="2d" id="fuck" style="{{fucks}}"></canvas>
+</view>
